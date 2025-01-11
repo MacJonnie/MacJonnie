@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Any challenging project that will help me to upskill and learn.**
 
-- 📫 How to reach me **markjohn165@gmail.com**
+- 📫 How to reach me **markjohn165@gmail.com** **www.linkedin.com/in/john-m-emori-a02a36210**
 
 - ⚡ Fun fact **I am a very skilled musician.**
 
