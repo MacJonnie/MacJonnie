@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A Passionate and Adventurous Backend Developer from Nigeria.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Any challenging project that will help me to upskill and learn.**
 
